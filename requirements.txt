@@ -2,4 +2,3 @@ streamlit>=1.37
 pandas
 numpy
 requests
-understatapi
